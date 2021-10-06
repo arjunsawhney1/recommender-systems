@@ -1,4 +1,4 @@
-# Recommender Systems
+# Recommender Systems: Matrix Factorization
 In this project, I explore matrix factorization using singular value decomposition and its utility in designing simple recommender systems
 
 ## Data: Twitch Stream Viewers
